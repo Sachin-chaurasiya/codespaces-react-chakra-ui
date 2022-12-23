@@ -1,6 +1,18 @@
 # Codespaces ♥️ React + Chakra UI + TypeScript
 
-CodeSpace Template For A popular JavaScript library for building user interfaces based on UI components, Chakra UI and TypeScript
+CodeSpace Template For A popular JavaScript library for building user interfaces based on UI components, Chakra UI and TypeScript.
+
+## Pre-install dependencies
+
+- @chakra-ui/react
+- @chakra-ui/theme
+- @chakra-ui/theme-tools
+- react-icons
+
+## Chakra-specific functionality
+- ChakraProvider and CSSReset already connected to the default theme
+- ColorModeSwitcher component, using Chakra's color mode management
+- Animated Chakra UI logo instead of the React logo
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
